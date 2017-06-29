@@ -1,0 +1,9 @@
+mac adresses should be unique, but aren't examaple Hardware Manufactures, Virtual Devices, Mac emulation
+File Formates and streames are diffrent, but try to make an example of file read how Fileformates converts to IO streams
+Examples with sockets: 
+try to get more details, simple one process handler, multiproces handler, Continues Comunication(chat), etc.
+Get more specific why the single handler works with it works. is the deamon connecting in the background to sudo version?
+Not sure but if there is a possibility to get a ip4/ipv6 compatible code sample, try to get all to understand ipv6 and the problems that will acure if ther is a switch to ipv6 only.
+Get an easy ipv6 tutorial at the top of ipv6 site
+
+
